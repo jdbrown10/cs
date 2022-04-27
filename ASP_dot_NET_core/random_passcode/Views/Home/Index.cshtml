@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+
+    <div class="d-flex justify-content-center">
+        <div class="card" style="width: 30rem;">
+            <img src="~/images/secret_passcode.png" class="card-img-top" alt="secret passcode">
+            <div class="card-body">
+                <h5 class="card-title">SECRET PASSCODE! (number @ViewBag.Counter):</h5>
+                <p class="card-text">@ViewBag.Passcode</p>
+            </div>
+        </div>
+    </div>
+    <a href="/new_passcode" class="btn btn-primary mt-2">Generate Passcode</a>
+</div>

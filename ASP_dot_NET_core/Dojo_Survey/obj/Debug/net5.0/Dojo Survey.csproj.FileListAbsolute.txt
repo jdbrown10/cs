@@ -1,0 +1,55 @@
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.csproj.AssemblyReference.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.AssemblyInfoInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.AssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.csproj.CoreCompileInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.MvcApplicationPartsAssemblyInfo.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.RazorAssemblyInfo.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.RazorAssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/staticwebassets/Dojo Survey.StaticWebAssets.Manifest.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/staticwebassets/Dojo Survey.StaticWebAssets.xml
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/scopedcss/bundle/Dojo Survey.styles.css
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.TagHelpers.input.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.TagHelpers.output.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.RazorCoreGenerate.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.RazorTargetAssemblyInfo.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.RazorTargetAssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/ref/Dojo Survey.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/dojo_survey/obj/Debug/net5.0/Dojo Survey.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.csproj.AssemblyReference.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.AssemblyInfoInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.AssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.csproj.CoreCompileInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.MvcApplicationPartsAssemblyInfo.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.RazorAssemblyInfo.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.RazorAssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/staticwebassets/Dojo Survey.StaticWebAssets.Manifest.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/staticwebassets/Dojo Survey.StaticWebAssets.xml
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/scopedcss/bundle/Dojo Survey.styles.css
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.TagHelpers.input.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.TagHelpers.output.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.RazorCoreGenerate.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Razor/Views/Survey/Display.cshtml.g.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Razor/Views/Survey/Form.cshtml.g.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.RazorTargetAssemblyInfo.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.RazorTargetAssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/ref/Dojo Survey.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo Survey/obj/Debug/net5.0/Dojo Survey.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/bin/Debug/net5.0/appsettings.Development.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/bin/Debug/net5.0/appsettings.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/bin/Debug/net5.0/Dojo Survey.deps.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/bin/Debug/net5.0/Dojo Survey.runtimeconfig.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/bin/Debug/net5.0/Dojo Survey.runtimeconfig.dev.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/bin/Debug/net5.0/Dojo Survey.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/bin/Debug/net5.0/ref/Dojo Survey.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/bin/Debug/net5.0/Dojo Survey.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/bin/Debug/net5.0/Dojo Survey.Views.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/bin/Debug/net5.0/Dojo Survey.Views.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/obj/Debug/net5.0/Dojo Survey.Views.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/obj/Debug/net5.0/Dojo Survey.genruntimeconfig.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/obj/Debug/net5.0/Dojo Survey.csproj.CopyComplete
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/obj/Debug/net5.0/Razor/Views/First/Display.cshtml.g.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/ASP_dot_NET_core/Dojo_Survey/obj/Debug/net5.0/Razor/Views/First/Form.cshtml.g.cs
