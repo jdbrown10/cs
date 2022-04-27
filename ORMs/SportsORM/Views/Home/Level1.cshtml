@@ -1,0 +1,341 @@
+<div class="card">
+    <div class="card-header bg-dark text-light">Level 1</div>
+    <div class="card-body">
+        @* QUERY 1 *@
+        <h4>1. All womens' leagues:</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Sport</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (League l in ViewBag.WomensLeagues)
+                        {
+                        <tr>
+                            <td>@l.Name</td>
+                            <td>@l.Sport</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        @* QUERY 2 *@
+        <h4>2. All leagues where sport is any type of hockey:</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Sport</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (League l in ViewBag.HockeyLeagues)
+                        {
+                        <tr>
+                            <td>@l.Name</td>
+                            <td>@l.Sport</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        @* QUERY 3 *@
+        <h4>3. All leagues where sport is something OTHER THAN football:</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Sport</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (League l in ViewBag.NotFBLeagues)
+                        {
+                        <tr>
+                            <td>@l.Name</td>
+                            <td>@l.Sport</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>4. All leagues that call themselves "conferences":</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Sport</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (League l in ViewBag.Conferences)
+                        {
+                        <tr>
+                            <td>@l.Name</td>
+                            <td>@l.Sport</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>5. All leagues in the Atlantic region:</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Sport</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (League l in ViewBag.Atlantic)
+                        {
+                        <tr>
+                            <td>@l.Name</td>
+                            <td>@l.Sport</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>6. All teams based in Dallas:</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Location</th>
+                    <th scope="col">Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (Team t in ViewBag.Dallas)
+                        {
+                        <tr>
+                            <td>@t.Location</td>
+                            <td>@t.TeamName</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>7. All teams named the Raptors:</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Location</th>
+                    <th scope="col">Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (Team t in ViewBag.Raptors)
+                        {
+                        <tr>
+                            <td>@t.Location</td>
+                            <td>@t.TeamName</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>8. All teams whose location includes "City":</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Location</th>
+                    <th scope="col">Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (Team t in ViewBag.City)
+                        {
+                        <tr>
+                            <td>@t.Location</td>
+                            <td>@t.TeamName</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>9. All teams whose names begin with "T"</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Location</th>
+                    <th scope="col">Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (Team t in ViewBag.NameStartsWithT)
+                        {
+                        <tr>
+                            <td>@t.Location</td>
+                            <td>@t.TeamName</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>10. All teams ordered alphabetically by location</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Location</th>
+                    <th scope="col">Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (Team t in ViewBag.TeamsABCLocation)
+                        {
+                        <tr>
+                            <td>@t.Location</td>
+                            <td>@t.TeamName</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>11. All teams, ordered by team name in reverse alphabetical order</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Location</th>
+                    <th scope="col">Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (Team t in ViewBag.TeamsReverseABCNames)
+                        {
+                        <tr>
+                            <td>@t.Location</td>
+                            <td>@t.TeamName</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>12. Every player with last name "Cooper"</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">First Name</th>
+                    <th scope="col">Last Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (Player p in ViewBag.Coopers)
+                        {
+                        <tr>
+                            <td>@p.FirstName</td>
+                            <td>@p.LastName</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>13. Every player with first name "Joshua"</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">First Name</th>
+                    <th scope="col">Last Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (Player p in ViewBag.Joshuas)
+                        {
+                        <tr>
+                            <td>@p.FirstName</td>
+                            <td>@p.LastName</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>14. Every player with last name "Cooper" EXCEPT those with "Joshua" as the first name</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">First Name</th>
+                    <th scope="col">Last Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (Player p in ViewBag.CoopersNoJoshuas)
+                        {
+                        <tr>
+                            <td>@p.FirstName</td>
+                            <td>@p.LastName</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        <h4>15. All players with first name "Alexander" OR first name "Wyatt"</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">First Name</th>
+                    <th scope="col">Last Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @{
+                        foreach (Player p in ViewBag.AlexsAndWyatts)
+                        {
+                        <tr>
+                            <td>@p.FirstName</td>
+                            <td>@p.LastName</td>
+                        </tr>
+                        }
+                    }
+                </tr>
+            </tbody>
+        </table>
+        @*
+            <li>...all players with first name "Alexander" OR first name "Wyatt"</li> *@
+        </ol>
+    </div>
+</div>

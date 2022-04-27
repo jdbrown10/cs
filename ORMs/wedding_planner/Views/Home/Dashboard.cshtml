@@ -1,0 +1,42 @@
+<h1>Welcome @ViewBag.LoggedIn.FirstName!</h1>
+
+@model User
+
+<h3>All Weddings</h3>
+<br>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Wedding</th>
+            <th scope="col">Date</th>
+            <th scope="col">Number of Guests</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Wedding w in ViewBag.AllWeddings)
+        {
+        <tr>
+            <td><a href="/wedding/@w.WeddingId">@w.WedderOne and @w.WedderTwo</a></td>
+            <td>@w.Date</td>
+            <td>????</td>
+            <td>
+                @if(w.Planner == @ViewBag.LoggedIn)
+                {
+                <form action="/delete/@w.WeddingId" method="post">
+                <input type="submit" value="Delete" class="btn btn-danger">
+                </form>
+                } else {
+                @* <a href="/rsvp/@w.WeddingId">RSVP</a> <a href="#">un-RSVP</a>  *@
+                <form action="/rsvp/@w.WeddingId" method="post">
+                <input type="submit" value="RSVP" class="btn btn-success">
+                </form>
+                <form action="/unrsvp/@w.WeddingId" method="post">
+                <input type="submit" value="unRSVP" class="btn btn-warning">
+                </form>
+                }
+                </td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,28 @@
+
+@model Chef
+
+<div class="container">
+    <div class="text-center">
+        <h2>Add a Chef</h2>
+        <form action="/chef/create" method="post">
+        <div class="form-group">
+            <label for="FirstName">First Name</label>
+            <input asp-for="FirstName" class="form-control">
+            <span asp-validation-for="FirstName" class="danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="LastName">Last Name</label>
+            <input asp-for="LastName" class="form-control">
+            <span asp-validation-for="LastName" class="danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="DateOfBirth">Date of birth:</label>
+            <input asp-for="DateOfBirth" class="form-control">
+            <span asp-validation-for="DateOfBirth" class="danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Submit" class="btn btn-primary">
+        </div>
+        </form>
+    </div>
+</div>

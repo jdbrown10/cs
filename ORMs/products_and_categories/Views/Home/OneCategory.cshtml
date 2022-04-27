@@ -1,0 +1,33 @@
+@model ProductCategory
+
+<h1 class="text-center">@ViewBag.OneCategory.Name</h1>
+
+<div class="d-flex justify-content-around">
+    <div>
+        <h4>list of associated things</h4>
+        <ul>
+            @foreach (ProductCategory c in ViewBag.OneCategory.IncludedProducts)
+            {
+                <li>@c.Product.Name</li>
+            }
+        </ul>
+    </div>
+    <div>
+        <h5>Add a product to this category:</h5>
+        <form action="/productcategory/add" method="post">
+            <input type="hidden" asp-for="CategoryId" value="@ViewBag.OneCategory.CategoryId">
+            <div class="form-group">
+                <label for="ProductId">Products</label>
+                <select asp-for="ProductId" class="form-control">
+                    @foreach (Product p in ViewBag.AllProducts)
+                    {
+                        <option value="@p.ProductId">@p.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary">
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+
+@model Dish
+
+<div class="text-center container">
+    <h1>@ViewBag.Dish.Name</h1>
+    <hr>
+        <div>
+            <p>@ViewBag.Dish.Description</p>
+            <p>Tastiness: @ViewBag.Dish.Tastiness</p>
+            <p>Calories: @ViewBag.Dish.Calories</p>
+        </div>
+
+        <div class="d-flex justify-content-around">
+            <a href="/update/@ViewBag.Dish.DishId" class="btn btn-primary">Edit Dish</a>
+            <a href="/delete/@ViewBag.Dish.DishId" class="btn btn-danger">Delete Dish</a>
+        </div>
+</div>

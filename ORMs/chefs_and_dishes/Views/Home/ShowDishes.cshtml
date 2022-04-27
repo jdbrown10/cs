@@ -1,0 +1,43 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Dish
+
+<div class="container">
+    <div class="d-flex justify-content-around">
+        <div>
+            <h1 class="text-center"><a href="/">Chefs</a> | Dishes</h1>
+        </div>
+        <div class="div">
+            <a href="/new/dish">Create a Dish</a>
+        </div>
+    </div>
+    <br>
+    <div style="width: 60%;">
+        <h4 class="text-left">Check out our Dishes!</h1>
+            <hr>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Name</th>
+                        <th scope="col">Chef</th>
+                        <th scope="col">Tastiness</th>
+                        <th scope="col">calories</th>
+                    </tr>
+                </thead>
+                <tbody>
+            @foreach (Dish d in ViewBag.AllDishes)
+            {
+                    <tr>
+                        <td>@d.Name</td>
+                        <td>@d.Creator.FirstName @d.Creator.LastName</td>
+                        <td>@d.Tastiness</td>
+                        <td>@d.NumOfCalories</td>
+                    </tr>
+            }
+            </ul>
+                </tbody>
+            </table>
+    </div>
+</div>

@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Pet
+
+<div class="text-center">
+    <h1 class="display-4">Add Pet</h1>
+    <form action="/pets/add" method="post">
+        <div class="form-group">
+            <label for="Name">Name</label>
+            <input asp-for="Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="Species">Species</label>
+            <input asp-for="Species">
+            <span asp-validation-for="Species" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input class="btn btn-primary" type="submit" value="Submit">
+        </div>
+    </form>
+    <ul>
+        @foreach (Pet p in ViewBag.AllPets)
+        {
+            <li>@p.Name the @p.Species | <a href="/pets/remove/@p.PetId">Remove</a> | <a href="/pets/edit/@p.PetId">Update</a></li>
+        }
+    </ul>
+
+</div>
