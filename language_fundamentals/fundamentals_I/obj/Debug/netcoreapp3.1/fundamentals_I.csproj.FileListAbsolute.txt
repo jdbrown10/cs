@@ -1,0 +1,12 @@
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/obj/Debug/netcoreapp3.1/fundamentals_I.csprojAssemblyReference.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/obj/Debug/netcoreapp3.1/fundamentals_I.AssemblyInfoInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/obj/Debug/netcoreapp3.1/fundamentals_I.AssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/obj/Debug/netcoreapp3.1/fundamentals_I.csproj.CoreCompileInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/bin/Debug/netcoreapp3.1/fundamentals_I.deps.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/bin/Debug/netcoreapp3.1/fundamentals_I.runtimeconfig.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/bin/Debug/netcoreapp3.1/fundamentals_I.runtimeconfig.dev.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/bin/Debug/netcoreapp3.1/fundamentals_I.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/bin/Debug/netcoreapp3.1/fundamentals_I.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/obj/Debug/netcoreapp3.1/fundamentals_I.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/obj/Debug/netcoreapp3.1/fundamentals_I.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/fundamentals_I/obj/Debug/netcoreapp3.1/fundamentals_I.genruntimeconfig.cache

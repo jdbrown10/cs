@@ -1,0 +1,15 @@
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/bin/Debug/net5.0/deck_of_cards.deps.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/bin/Debug/net5.0/deck_of_cards.runtimeconfig.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/bin/Debug/net5.0/deck_of_cards.runtimeconfig.dev.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/bin/Debug/net5.0/deck_of_cards.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/bin/Debug/net5.0/ref/deck_of_cards.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/bin/Debug/net5.0/deck_of_cards.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/obj/Debug/net5.0/deck_of_cards.csproj.AssemblyReference.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/obj/Debug/net5.0/deck_of_cards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/obj/Debug/net5.0/deck_of_cards.AssemblyInfoInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/obj/Debug/net5.0/deck_of_cards.AssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/obj/Debug/net5.0/deck_of_cards.csproj.CoreCompileInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/obj/Debug/net5.0/deck_of_cards.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/obj/Debug/net5.0/ref/deck_of_cards.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/obj/Debug/net5.0/deck_of_cards.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/deck_of_cards/obj/Debug/net5.0/deck_of_cards.genruntimeconfig.cache

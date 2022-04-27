@@ -1,0 +1,5 @@
+/Users/joshuabrown/Desktop/wizard_ninja_samurai/obj/Debug/net5.0/human.csproj.AssemblyReference.cache
+/Users/joshuabrown/Desktop/wizard_ninja_samurai/obj/Debug/net5.0/human.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuabrown/Desktop/wizard_ninja_samurai/obj/Debug/net5.0/human.AssemblyInfoInputs.cache
+/Users/joshuabrown/Desktop/wizard_ninja_samurai/obj/Debug/net5.0/human.AssemblyInfo.cs
+/Users/joshuabrown/Desktop/wizard_ninja_samurai/obj/Debug/net5.0/human.csproj.CoreCompileInputs.cache

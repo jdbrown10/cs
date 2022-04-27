@@ -1,0 +1,15 @@
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/obj/Debug/net6.0/collections_practice.csproj.AssemblyReference.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/obj/Debug/net6.0/collections_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/obj/Debug/net6.0/collections_practice.AssemblyInfoInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/obj/Debug/net6.0/collections_practice.AssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/obj/Debug/net6.0/collections_practice.csproj.CoreCompileInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/bin/Debug/net6.0/collections_practice
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/bin/Debug/net6.0/collections_practice.deps.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/bin/Debug/net6.0/collections_practice.runtimeconfig.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/bin/Debug/net6.0/collections_practice.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/bin/Debug/net6.0/ref/collections_practice.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/bin/Debug/net6.0/collections_practice.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/obj/Debug/net6.0/collections_practice.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/obj/Debug/net6.0/ref/collections_practice.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/obj/Debug/net6.0/collections_practice.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/collections_practice/obj/Debug/net6.0/collections_practice.genruntimeconfig.cache

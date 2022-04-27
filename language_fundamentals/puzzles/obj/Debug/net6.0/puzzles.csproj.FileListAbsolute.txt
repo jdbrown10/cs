@@ -1,0 +1,15 @@
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/obj/Debug/net6.0/puzzles.csproj.AssemblyReference.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/obj/Debug/net6.0/puzzles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/obj/Debug/net6.0/puzzles.AssemblyInfoInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/obj/Debug/net6.0/puzzles.AssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/obj/Debug/net6.0/puzzles.csproj.CoreCompileInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/bin/Debug/net6.0/puzzles
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/bin/Debug/net6.0/puzzles.deps.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/bin/Debug/net6.0/puzzles.runtimeconfig.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/bin/Debug/net6.0/puzzles.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/bin/Debug/net6.0/ref/puzzles.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/bin/Debug/net6.0/puzzles.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/obj/Debug/net6.0/puzzles.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/obj/Debug/net6.0/ref/puzzles.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/obj/Debug/net6.0/puzzles.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/puzzles/obj/Debug/net6.0/puzzles.genruntimeconfig.cache

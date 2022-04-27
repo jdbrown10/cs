@@ -1,0 +1,15 @@
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/bin/Debug/net6.0/classesDemo
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/bin/Debug/net6.0/classesDemo.deps.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/bin/Debug/net6.0/classesDemo.runtimeconfig.json
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/bin/Debug/net6.0/classesDemo.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/bin/Debug/net6.0/ref/classesDemo.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/bin/Debug/net6.0/classesDemo.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/obj/Debug/net6.0/classesDemo.csproj.AssemblyReference.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/obj/Debug/net6.0/classesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/obj/Debug/net6.0/classesDemo.AssemblyInfoInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/obj/Debug/net6.0/classesDemo.AssemblyInfo.cs
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/obj/Debug/net6.0/classesDemo.csproj.CoreCompileInputs.cache
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/obj/Debug/net6.0/classesDemo.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/obj/Debug/net6.0/ref/classesDemo.dll
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/obj/Debug/net6.0/classesDemo.pdb
+/Users/joshuabrown/Desktop/Josh/Coding/Coding Dojo/dojo_assignments/c_sharp/language_fundamentals/classesDemo/obj/Debug/net6.0/classesDemo.genruntimeconfig.cache
